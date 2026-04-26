@@ -20,7 +20,6 @@ This project is a SQL-based database system built for a friend's café to manage
 
 ## 🎯 Purpose
 This project simulates a real-world restaurant system.
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
