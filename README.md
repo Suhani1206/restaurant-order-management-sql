@@ -32,4 +32,4 @@ This project simulates a real-world restaurant system.
 ### Join Query
 ![Join](screenshots/screenshots/join%20query.png)
 ## 👩‍💻 Author
-Suhani
+Suhani sharma
