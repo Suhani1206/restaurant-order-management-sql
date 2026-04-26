@@ -22,13 +22,15 @@ This project is a SQL-based database system built for a friend's café to manage
 This project simulates a real-world restaurant system.
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Customers Table
-![Customers](screenshots/shows%20coustomers%20table.png)
+![Customers](screenshots/screenshots/shows%20coustomers%20table.png)
 
 ### Filtering Query
-![Filtering](screenshots/filtering.png)
+![Filtering](screenshots/screenshots/filtering.png)
 
 ### Join Query
-![Join](screenshots/join%20query.png)
+![Join](screenshots/screenshots/join%20query.png)
 ## 👩‍💻 Author
 Suhani
